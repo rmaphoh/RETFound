@@ -46,6 +46,8 @@ pip install torch==2.5.1 torchvision==0.20.1 --index-url https://download.pytorc
 git clone https://github.com/rmaphoh/RETFound/
 cd RETFound
 pip install -r requirements.txt
+pip install ipykernel
+python -m ipykernel install --user --name retfound --display-name "Python (retfound)"
 ```
 
 
