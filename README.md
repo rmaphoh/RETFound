@@ -260,13 +260,14 @@ If you find this repository useful, please consider citing this paper:
 ```
 
 ```
-@misc{zhou2025generalistversusspecialistvision,
-      title={Generalist versus Specialist Vision Foundation Models for Ocular Disease and Oculomics}, 
-      author={Yukun Zhou and Paul Nderitu and Jocelyn Hui Lin Goh and Justin Engelmann and Siegfried K. Wagner and Anran Ran and Hongyang Jiang and Lie Ju and Ke Zou and Sahana Srinivasan and Hyunmin Kim and Takahiro Ninomiya and Zheyuan Wang and Gabriel Dawei Yang and Eden Ruffell and Dominic Williamson and Rui Santos and Gabor Mark Somfai and Carol Y. Cheung and Tien Yin Wong and Daniel C. Alexander and Yih Chung Tham and Pearse A. Keane},
-      year={2025},
-      eprint={2509.03421},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2509.03421}, 
+@article{zhou2026understanding,
+  title={Understanding pre-training data effects in retinal foundation models using two large fundus cohorts},
+  author={Zhou, Yukun and Wang, Zheyuan and Wu, Yilan and Ong, Ariel Yuhan and Wagner, Siegfried K and Ruffell, Eden and Chia, Mark A and Guan, Zhouyu and Ju, Lie and Engelmann, Justin and others},
+  journal={Nature Communications},
+  volume={17},
+  number={1},
+  pages={3309},
+  year={2026},
+  publisher={Nature Publishing Group UK, London}
 }
 ```
