@@ -8,7 +8,7 @@ Official repo including a series of foundation models and applications for retin
 `[DINOv3]`:[General-purpose vision foundation models DINOv3 by Meta](https://github.com/facebookresearch/dinov3).<br>
 
 
-Please contact 	**ykzhoua@gmail.com** or **yukun.zhou.19@ucl.ac.uk** if you have questions.
+Please contact 	**ykzhoua@gmail.com** or **yukun.zhou@ucl.ac.uk** if you have questions.
 
 
 ### 📝Key features
