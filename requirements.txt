@@ -9,3 +9,4 @@ matplotlib~=3.8.4
 scikit-multilearn~=0.2.0
 huggingface-hub~=0.23.4
 tensorboard~=2.17.0
+albumentations~=1.4.3
